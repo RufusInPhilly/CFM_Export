@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "madden-nfl-cfm-app",
+  "private_key_id": "f6b91336484a87548d21436dffa6246d79ad23e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDnD/OMQu2p9PlK\nQJE+iqE0rhJArJ7Ixm2njdoU6lfbqiNFnft8wBmnKsyB5E47I19cUeC3ZKTmML4I\nPNAZlPgdlQ+3TzlXir9oS4RRt8fTUpODv6qAxDVxHMi5wXBPU6GZ29Z10l0b1+CV\n9y1Wm4wEU1w+CQffsDx1ZeEctpWJt6t5yIlhlXBgmtBpE3lvoOE7942IL/bGrtki\nb+oiO4dQ0i6668fYK7Qfh7gXdMECoXxwh/Ild5P7mn8z4x58R4aXuyWZxHEg3R3a\n5Zs8d6D8SrjZ1iYDjP29C+bQkTqirrBAp03+AsKGicBYD/YIsD7KjS/YOsjkjUIL\nNnzQ8TA5AgMBAAECggEAcWn6+VXAojOESVX39OLGzbzDaMtSBOqg2CVgbfO4vDF+\nrqUk087WyJ7RUtBlNdHe9Mmbq2jTJ8m0/QYcfvIH9z07QZa5ZqbL3L10bUfv5WIa\n1gg2AI5OTP7753FzVvyNzZ+CXMKswQXtTq7Mqj4fM+BW3nxASSOQCW/AVv+n1rhJ\nnE0NVxmyArPxgEY9cHHGxF6RF9YaTF7TmCggsoK6ugNG4QsmRuNraFF2rdezyRvO\nxYNSxYkRnBbYJuyhfozv9p7GheBrezqj4UCOQiOlzcrAacL7wEi+2znZuE1JQWu/\naKTKrJyBahnL879+YqoanwRVRpOxZk2PFr4itfPsIQKBgQD8pQ1VfUxitX9xYGJb\nASK2lpw7rG/O1e0XVIH7OEq+Q3pyPn+GLvvThsfslAu/g1ZMcqM6RI8EAF1JbKXV\nrrphkjCALT5IcgnJHPnglIMdL5tSELaF4ZUvAF2oimLSuEP79PxVOExQTbLiYLNq\n2rIi6lhTP/5hqXivEj/PnWg0bwKBgQDqIYXWdgYhwHODzJfs6P3zNTLphd81OhdC\nrAeVcURF7TUYUkKPklFImMYrZkOe//cmTddIVE3MO1jOqFLM0gU65PRq8RWmlbFG\n5TsfzKzT4S5dhKfj2NgLkeRBkVCVAFd4en4Pnf3lFg1hZFRw7qQruDuTe7S7UT6M\n9CWme97J1wKBgDvAnaK2e7ZszrN15E05u4gLnu/OHLOCjQyThBpyedr+Apu6hFas\nDgs9OVOOwCiPW33BLzG8vUZo/6c59w7OwG4LMUVfbfecYQwbuk2PUmM4uzdxlHmd\nnLb9EymlcTH9OrcAfh15rzLe7Yv06vo+txri6fjmjbdzaYOegVENHXQpAoGAFhtM\nM8+5DH7LaWpr/eaR8+DWCc6mILR3dcggfy/OrnuTQ9SgjEXYfu5N59MkF2M7xtYa\nua2cGuiPnhOuncBG1iTAH0jcLnp73qHOT1ZYCzl700CvSYgz/gOsdbRu02LQ34NR\nW9AjJPpMESIUBwXBYo9msKpBil5FdbGnzGxtwMkCgYAuF0uhgCRsLPaa3eVvILq+\n3daoD2GrxFNLQfLdQ331FnA5K6g9lr2FSi9tfmI9w1bviBjYPb3pXIDHcY2CPliw\nNVsqwimOF3NKyMMuhaPnPnBZJ7fAHlvJ9qTioCIDy7DrucWrJW/SrOCcfpRvdGAn\n+qPXNXLWkrvZQgpbKQ7WkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ga1aj@madden-nfl-cfm-app.iam.gserviceaccount.com",
+  "client_id": "116608481817178342244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ga1aj%40madden-nfl-cfm-app.iam.gserviceaccount.com"
+}
